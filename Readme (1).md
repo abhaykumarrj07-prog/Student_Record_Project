@@ -55,10 +55,9 @@ The project demonstrates the use of basic Python programming concepts.
 ---
 
 ## Output Screenshots
-"C:\Users\Manya N P\OneDrive\Pictures\Screenshots\Screenshot 1 2026-01-04 181142.png"
-"C:\Users\Manya N P\OneDrive\Pictures\Screenshots\Screenshot  2 2026-01-04 181208.png"
-"C:\Users\Manya N P\OneDrive\Pictures\Screenshots\Screenshot 3 2026-01-04 181228.png"
-"C:\Users\Manya N P\OneDrive\Pictures\Screenshots\Screenshot 4 2026-01-04 181249.png"
-"C:\Users\Manya N P\OneDrive\Pictures\Screenshots\Screenshot 5 2026-01-04 181333.png"
-"C:\Users\Manya N P\OneDrive\Pictures\Screenshots\Screenshot 6 2026-01-04 181351.png"
+<img width="1431" height="522" alt="Screenshot 2026-01-05 125706" src="https://github.com/user-attachments/assets/4e073456-da6d-4a17-88f8-d6dded700fc7" />
+<img width="1434" height="520" alt="Screenshot 2026-01-05 125635" src="https://github.com/user-attachments/assets/24c800c4-8d69-446b-8ecb-ce55d4d7a380" />
+<img width="1437" height="686" alt="Screenshot 2026-01-05 125607" src="https://github.com/user-attachments/assets/0ef5f02c-c2d1-4433-8f27-1fc9559a54d5" />
+<img width="1406" height="685" alt="Screenshot 2026-01-05 125528" src="https://github.com/user-attachments/assets/c31ad2b1-8d78-4200-9ef2-e47ab2e4c789" />
+
 Screenshots showing execution of the program are attached in the project folder.
